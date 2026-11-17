@@ -1,0 +1,14 @@
+{
+  "build": "2026-11-17-regional-business",
+  "title": "Regional travel and business update",
+  "engine": "Godot 4.7.2",
+  "pck_sha256": "f6cd6d440a3a78c269e8fe08594c9d53090f3a66412ac50532f44d5076d9efcd",
+  "pck_bytes": 380001724,
+  "features": [
+    "Four regional towns and connected roads",
+    "Buses, ferries and passenger aircraft",
+    "Bay Bites restaurants and playable jobs",
+    "Food cart and restaurant ownership"
+  ],
+  "online_rooms": "A separate room service is still required."
+}
