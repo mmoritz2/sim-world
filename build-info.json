@@ -1,16 +1,15 @@
 {
-  "build": "2026-11-17-realism-world-life",
-  "title": "Lived-in towns and grounded movement",
+  "build": "2026-11-17-people-interiors",
+  "title": "Natural movement and furnished getaways",
   "engine": "Godot 4.7.2",
-  "pck_sha256": "67b661068a82b330b2f0454461aecf29d946fedc5d88295a1a4fa2d6af7db736",
-  "pck_bytes": 380065896,
+  "pck_sha256": "9c8bda974af817654b4272e89115ae8ed47d63e61b8edb6eba71cb3d590724a1",
+  "pck_bytes": 380077312,
   "features": [
-    "Connected residential back streets, porches and gardens in all four regional towns",
-    "Textured terrain, rain-responsive asphalt and continuous country roads",
-    "Destination-based pedestrians with opening hours and rain shelter",
-    "Night windows and porch lights in streamed towns",
-    "Acceleration, braking, collision-grounded gait and surface footsteps",
-    "Parasol camera clearance"
+    "Character upper-body weight and head anticipation during starts, turns and stops",
+    "Once-per-frame player locomotion pose presentation",
+    "Earlier switching to equivalent combined building facades",
+    "Coordinated furnished vacation suites across four regional towns",
+    "Rounded diner booths and finished counter and kitchen joinery"
   ],
   "online_rooms": "A separate room service is still required."
 }
