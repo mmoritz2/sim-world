@@ -1,14 +1,14 @@
 {
-  "build": "2026-11-17-regional-business",
-  "title": "Regional travel and business update",
+  "build": "2026-11-17-vacations-town-life",
+  "title": "Vacations and town life",
   "engine": "Godot 4.7.2",
-  "pck_sha256": "f6cd6d440a3a78c269e8fe08594c9d53090f3a66412ac50532f44d5076d9efcd",
-  "pck_bytes": 380001724,
+  "pck_sha256": "dd2fc9f2b8e1d502e83101b4108e73dc60e74e67495321ab13fbd6ac097c314a",
+  "pck_bytes": 380046872,
   "features": [
-    "Four regional towns and connected roads",
-    "Buses, ferries and passenger aircraft",
-    "Bay Bites restaurants and playable jobs",
-    "Food cart and restaurant ownership"
+    "Eight hotels and private vacation homes",
+    "Persistent 1\u20137 night reservations and usable rooms",
+    "Distinct regional streets, orchard, woodland trail and waterfronts",
+    "Harbor fishing, apple picking, trail photographs and parcel deliveries"
   ],
   "online_rooms": "A separate room service is still required."
 }
