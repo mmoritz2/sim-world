@@ -1,14 +1,16 @@
 {
-  "build": "2026-11-17-vacations-town-life",
-  "title": "Vacations and town life",
+  "build": "2026-11-17-realism-world-life",
+  "title": "Lived-in towns and grounded movement",
   "engine": "Godot 4.7.2",
-  "pck_sha256": "dd2fc9f2b8e1d502e83101b4108e73dc60e74e67495321ab13fbd6ac097c314a",
-  "pck_bytes": 380046872,
+  "pck_sha256": "67b661068a82b330b2f0454461aecf29d946fedc5d88295a1a4fa2d6af7db736",
+  "pck_bytes": 380065896,
   "features": [
-    "Eight hotels and private vacation homes",
-    "Persistent 1\u20137 night reservations and usable rooms",
-    "Distinct regional streets, orchard, woodland trail and waterfronts",
-    "Harbor fishing, apple picking, trail photographs and parcel deliveries"
+    "Connected residential back streets, porches and gardens in all four regional towns",
+    "Textured terrain, rain-responsive asphalt and continuous country roads",
+    "Destination-based pedestrians with opening hours and rain shelter",
+    "Night windows and porch lights in streamed towns",
+    "Acceleration, braking, collision-grounded gait and surface footsteps",
+    "Parasol camera clearance"
   ],
   "online_rooms": "A separate room service is still required."
 }
