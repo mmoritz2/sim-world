@@ -1,12 +1,12 @@
 {
-  "build": "2026-11-18-outbreak-escape",
-  "title": "Outrun the infected from your apartment doorstep",
+  "build": "2026-11-18-express-flights",
+  "title": "Express flights and seatback games",
   "engine": "Godot 4.7.2",
-  "pck_sha256": "33ccc316252ec2f069ff7251cb5883e6e67759e1dfea50b6280319ea2a884abb",
-  "pck_bytes": 380144388,
+  "pck_sha256": "b21ae70a29419c366eb57ca3b67597ac1b971d360d1d5cea86b33bb25b01fd89",
+  "pck_bytes": 380148984,
   "features": [
     "Willow Bay airport beside West Road with flights between all five towns",
-    "Full real-time flight durations, saved progress and passenger cabin activities",
+    "Express flights with saved route progress, optional cruise skip, postcard detective and cabin caf\u00e9 games",
     "Four town challenges: beach cleanup, market orders, woodland orienteering and harbor cargo",
     "Streamed roadside fencing, vegetation, farm buildings and rest places",
     "Separate quarantine and infected timelines; infected hide behind cover, investigate noise and chase on sight. No cure for bites.",
