@@ -1,15 +1,15 @@
 {
-  "build": "2026-11-17-people-interiors",
-  "title": "Natural movement and furnished getaways",
+  "build": "2026-11-18-travel-outbreak",
+  "title": "Real-time flights and alternate outbreak timelines",
   "engine": "Godot 4.7.2",
-  "pck_sha256": "9c8bda974af817654b4272e89115ae8ed47d63e61b8edb6eba71cb3d590724a1",
-  "pck_bytes": 380077312,
+  "pck_sha256": "fef485f85a779b77d3e96436a545b16902cbe21ad3a46c28ea9fde0e5832ddf7",
+  "pck_bytes": 380126472,
   "features": [
-    "Character upper-body weight and head anticipation during starts, turns and stops",
-    "Once-per-frame player locomotion pose presentation",
-    "Earlier switching to equivalent combined building facades",
-    "Coordinated furnished vacation suites across four regional towns",
-    "Rounded diner booths and finished counter and kitchen joinery"
+    "Willow Bay airport beside West Road with flights between all five towns",
+    "Full real-time flight durations, saved progress and passenger cabin activities",
+    "Four town challenges: beach cleanup, market orders, woodland orienteering and harbor cargo",
+    "Streamed roadside fencing, vegetation, farm buildings and rest places",
+    "Separate quarantine and infected timelines with supplies, stealth, bites and disabled normal services"
   ],
   "online_rooms": "A separate room service is still required."
 }
