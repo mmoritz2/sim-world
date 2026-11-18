@@ -1,9 +1,9 @@
 {
-  "build": "2026-11-18-zombie-overhaul",
-  "title": "Ruined towns and hunting infected",
+  "build": "2026-11-18-outbreak-escape",
+  "title": "Outrun the infected from your apartment doorstep",
   "engine": "Godot 4.7.2",
-  "pck_sha256": "b66fcdb04bdbf98e0549e04feb15d8f6d04f87f2e60e175683d992e000cef6c5",
-  "pck_bytes": 380143780,
+  "pck_sha256": "33ccc316252ec2f069ff7251cb5883e6e67759e1dfea50b6280319ea2a884abb",
+  "pck_bytes": 380144388,
   "features": [
     "Willow Bay airport beside West Road with flights between all five towns",
     "Full real-time flight durations, saved progress and passenger cabin activities",
@@ -11,7 +11,9 @@
     "Streamed roadside fencing, vegetation, farm buildings and rest places",
     "Separate quarantine and infected timelines; infected hide behind cover, investigate noise and chase on sight. No cure for bites.",
     "Dark blackout world with torch, ruined storefronts, rubble and wrecked cars",
-    "Outbreak-only infected faces, damaged clothing and hunched running animations"
+    "Outbreak-only infected faces, damaged clothing and hunched running animations",
+    "Willow Bay outbreak arrivals outside your apartment",
+    "Faster player sprint, tap-to-sprint, and shorter zombie searches"
   ],
   "online_rooms": "A separate room service is still required."
 }
