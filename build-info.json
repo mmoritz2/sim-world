@@ -1,15 +1,17 @@
 {
-  "build": "2026-11-18-travel-outbreak",
-  "title": "Real-time flights and alternate outbreak timelines",
+  "build": "2026-11-18-zombie-overhaul",
+  "title": "Ruined towns and hunting infected",
   "engine": "Godot 4.7.2",
-  "pck_sha256": "fef485f85a779b77d3e96436a545b16902cbe21ad3a46c28ea9fde0e5832ddf7",
-  "pck_bytes": 380126472,
+  "pck_sha256": "b66fcdb04bdbf98e0549e04feb15d8f6d04f87f2e60e175683d992e000cef6c5",
+  "pck_bytes": 380143780,
   "features": [
     "Willow Bay airport beside West Road with flights between all five towns",
     "Full real-time flight durations, saved progress and passenger cabin activities",
     "Four town challenges: beach cleanup, market orders, woodland orienteering and harbor cargo",
     "Streamed roadside fencing, vegetation, farm buildings and rest places",
-    "Separate quarantine and infected timelines with supplies, stealth, bites and disabled normal services"
+    "Separate quarantine and infected timelines; infected hide behind cover, investigate noise and chase on sight. No cure for bites.",
+    "Dark blackout world with torch, ruined storefronts, rubble and wrecked cars",
+    "Outbreak-only infected faces, damaged clothing and hunched running animations"
   ],
   "online_rooms": "A separate room service is still required."
 }
