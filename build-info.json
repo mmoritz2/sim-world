@@ -1,10 +1,13 @@
 {
-  "build": "2026-11-18-express-flights",
-  "title": "Express flights and seatback games",
+  "build": "2026-11-20-cabin-town-visits",
+  "title": "Cabin conversations and local workshops",
   "engine": "Godot 4.7.2",
-  "pck_sha256": "b21ae70a29419c366eb57ca3b67597ac1b971d360d1d5cea86b33bb25b01fd89",
-  "pck_bytes": 380148984,
+  "pck_sha256": "937e182ddc28a995d35ce45a57ebe619a2cc31d15a632ead5cb59de548521354",
+  "pck_bytes": 380184516,
   "features": [
+    "First-person cabin walks and branching conversations with three seated passengers",
+    "Recessed aircraft windows, refitted seats, seatbelt chimes and propeller ambience",
+    "A local host, hands-on activity and travel journal stamp in each of the five towns",
     "Willow Bay airport beside West Road with flights between all five towns",
     "Express flights with saved route progress, optional cruise skip, postcard detective and cabin caf\u00e9 games",
     "Four town challenges: beach cleanup, market orders, woodland orienteering and harbor cargo",
